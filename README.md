@@ -23,6 +23,10 @@ The goal of this project is to build a machine learning model that can accuratel
 - **Gradient Boosting Regressor**
 - **Voting Regressor**
 
+### Live Demo of Project
+[Click Here to access the Salary Prediction app](https://salary-pred-by-anshika-raj.streamlit.app/)
+
+
 ---
 
 ## 📁 Dataset
